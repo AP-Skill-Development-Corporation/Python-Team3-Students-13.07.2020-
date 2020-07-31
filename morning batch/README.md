@@ -20,6 +20,8 @@
  - Literate Programming
  - Jupyter Notebook Environment
  - Markdown format for documentation 
+ 
+ 
 - Python Basics
  - Variables Declaration and Data Types
  - Keywords
