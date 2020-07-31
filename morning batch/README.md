@@ -14,15 +14,16 @@
 
 ## Day-2
 
-- Anaconda Installation & Overview
 - Differences between Anaconda and IDLE
 - Why Anaconda?
-- Literate Programming
-- Jupyter Notebook Environment
-- Markdown format for documentation
-- Variables
-- Keywords
-- Data types(Intro)
+ - Anaconda Installation & Overview
+ - Literate Programming
+ - Jupyter Notebook Environment
+ - Markdown format for documentation 
+- Python Basics
+ - Variables Declaration and Data Types
+ - Keywords
+
  
 
 
