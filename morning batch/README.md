@@ -2,7 +2,11 @@
 
 ## Topics Covered
 
+<hr>
+
 ## Day-1:
+
+
 
 - Introduction to Python
 - How to Install Anaconda 
@@ -11,6 +15,9 @@
 - Applications
 - Advantages
 - Differences between Other languages and Python
+
+
+<hr>
 
 ## Day-2
 
