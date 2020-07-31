@@ -32,6 +32,14 @@
 - Python Basics
  - Variables Declaration and Data Types
  - Keywords
+ 
+ 
+## Day-3
+- Operators
+- Conditional statements
+
+## Day-4
+
 
  
 
