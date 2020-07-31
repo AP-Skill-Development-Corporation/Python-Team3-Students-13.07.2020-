@@ -40,6 +40,17 @@
 
 ## Day-4
 
+- Conditional Statements (Continution)
+- Loops
+
+## Day-5
+
+-- Functions
+
+## Day-6
+
+-
+
 
  
 
