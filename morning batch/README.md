@@ -45,11 +45,24 @@
 
 ## Day-5
 
--- Functions
+- Functions
 
 ## Day-6
 
--
+- Data strctures
+ - Strings
+ - Lists
+ 
+## Day-8
+
+- Sets
+- Packages and Modules
+
+## Day-9
+
+- 
+
+
 
 
  
