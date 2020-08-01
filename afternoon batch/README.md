@@ -38,19 +38,19 @@
   - Strings
   - List
 
-## Day-7
+## Day-8
 - List(cont)
 - Tuples
 - Set
 - Dictionaries
 - Packages and modules(Intr)
 
-## Day-8
+## Day-9
 - Packages and Modules (cont)
 - Regular Expressions
 - Comprehensions
 
-## Day-9
+## Day-10
 - Lambda()
   -Lambda using "if else"
   - Lambda without using "ifelse"
@@ -67,28 +67,28 @@
   - map,filter ,lambda with reduce
   
   
-## Day-10
+## Day-11
 - File handling
-## day-11
+## day-12
 - Python Libraries
   -Numpy
   - Numpy arrays
   
-## Day-12
+## Day-13
 - Pandas  
   - Series
   - Data frames
-## Day-13
+## Day-14
 - Data Visuvalization using matplot lib
 
-## Day-14 
+## Day-15 
 - matplotlib (con)
-## Day-15
+## Day-16
 - OOPs introduction
   - Class
   - Constructor
   
- ## Day -15
+ ## Day -17
  - Packages and modules in OOPs
 
 
